@@ -4,6 +4,7 @@ Forager/MouseManager.cpp
 ##No debug data
 Debug/
 Forager/Debug
+.vs/
 
 ## OS Specific
 .DS_Store
