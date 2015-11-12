@@ -28,7 +28,7 @@ int main()
 	//----------------------------------------------------------------------
 
 
-	printf("Welcome to Forager by Pixelgriffin\n\n");
+	printf("Welcome to OpenForager, a free open-source puzzle solving bot!\n\n");
 
 searchPoint:
 	//search for the YPP window
