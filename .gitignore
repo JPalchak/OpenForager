@@ -1,0 +1,9 @@
+##Remove mouse movement
+Forager/MouseManager.cpp
+
+##No debug data
+Debug/
+Forager/Debug
+
+## OS Specific
+.DS_Store
